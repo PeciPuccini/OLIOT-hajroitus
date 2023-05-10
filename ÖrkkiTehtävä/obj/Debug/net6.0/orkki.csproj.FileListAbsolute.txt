@@ -1,0 +1,15 @@
+C:\Users\s2101107\source\repos\orkki\bin\Debug\net6.0\orkki.exe
+C:\Users\s2101107\source\repos\orkki\bin\Debug\net6.0\orkki.deps.json
+C:\Users\s2101107\source\repos\orkki\bin\Debug\net6.0\orkki.runtimeconfig.json
+C:\Users\s2101107\source\repos\orkki\bin\Debug\net6.0\orkki.dll
+C:\Users\s2101107\source\repos\orkki\bin\Debug\net6.0\ref\orkki.dll
+C:\Users\s2101107\source\repos\orkki\bin\Debug\net6.0\orkki.pdb
+C:\Users\s2101107\source\repos\orkki\obj\Debug\net6.0\orkki.csproj.AssemblyReference.cache
+C:\Users\s2101107\source\repos\orkki\obj\Debug\net6.0\orkki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101107\source\repos\orkki\obj\Debug\net6.0\orkki.AssemblyInfoInputs.cache
+C:\Users\s2101107\source\repos\orkki\obj\Debug\net6.0\orkki.AssemblyInfo.cs
+C:\Users\s2101107\source\repos\orkki\obj\Debug\net6.0\orkki.csproj.CoreCompileInputs.cache
+C:\Users\s2101107\source\repos\orkki\obj\Debug\net6.0\orkki.dll
+C:\Users\s2101107\source\repos\orkki\obj\Debug\net6.0\ref\orkki.dll
+C:\Users\s2101107\source\repos\orkki\obj\Debug\net6.0\orkki.pdb
+C:\Users\s2101107\source\repos\orkki\obj\Debug\net6.0\orkki.genruntimeconfig.cache

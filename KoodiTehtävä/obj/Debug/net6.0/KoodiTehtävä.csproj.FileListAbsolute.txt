@@ -1,0 +1,15 @@
+C:\Users\s2101107\source\repos\KoodiTehtävä\bin\Debug\net6.0\KoodiTehtävä.exe
+C:\Users\s2101107\source\repos\KoodiTehtävä\bin\Debug\net6.0\KoodiTehtävä.deps.json
+C:\Users\s2101107\source\repos\KoodiTehtävä\bin\Debug\net6.0\KoodiTehtävä.runtimeconfig.json
+C:\Users\s2101107\source\repos\KoodiTehtävä\bin\Debug\net6.0\KoodiTehtävä.dll
+C:\Users\s2101107\source\repos\KoodiTehtävä\bin\Debug\net6.0\ref\KoodiTehtävä.dll
+C:\Users\s2101107\source\repos\KoodiTehtävä\bin\Debug\net6.0\KoodiTehtävä.pdb
+C:\Users\s2101107\source\repos\KoodiTehtävä\obj\Debug\net6.0\KoodiTehtävä.csproj.AssemblyReference.cache
+C:\Users\s2101107\source\repos\KoodiTehtävä\obj\Debug\net6.0\KoodiTehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101107\source\repos\KoodiTehtävä\obj\Debug\net6.0\KoodiTehtävä.AssemblyInfoInputs.cache
+C:\Users\s2101107\source\repos\KoodiTehtävä\obj\Debug\net6.0\KoodiTehtävä.AssemblyInfo.cs
+C:\Users\s2101107\source\repos\KoodiTehtävä\obj\Debug\net6.0\KoodiTehtävä.csproj.CoreCompileInputs.cache
+C:\Users\s2101107\source\repos\KoodiTehtävä\obj\Debug\net6.0\KoodiTehtävä.dll
+C:\Users\s2101107\source\repos\KoodiTehtävä\obj\Debug\net6.0\ref\KoodiTehtävä.dll
+C:\Users\s2101107\source\repos\KoodiTehtävä\obj\Debug\net6.0\KoodiTehtävä.pdb
+C:\Users\s2101107\source\repos\KoodiTehtävä\obj\Debug\net6.0\KoodiTehtävä.genruntimeconfig.cache
